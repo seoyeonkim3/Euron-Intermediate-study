@@ -36,7 +36,7 @@ __이진 분류(Binary Classification)__: 결과가 ‘그렇다’이면 1로 �
 ## 2-2. 로지스틱 회귀
 __로지스틱 회귀(Logistic Regression)__: 답이 0 또는 1로 정해져있는 이진 분류 문제에 사용되는 알고리즘
 
-![로지스틱 회귀 식](https://github.com/seoyeonkim3/6th-Intermediate/blob/Week1/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80%20%EC%8B%9D.png?raw=true)
+![로지스틱 회귀 식](https://github.com/seoyeonkim3/Euron-Intermediate-study/blob/Week1/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80%20%EC%8B%9D.png?raw=true)
 →시그모이드 함수를 통해 0과 1 사이의 값으로 변환
 
 ![시그모이드 함수](https://w7.pngwing.com/pngs/976/102/png-transparent-sigmoid-function-equation-angle-sigmoid-curve-angle-text-triangle-thumbnail.png)→시그모이드 함수
@@ -54,7 +54,7 @@ __경사하강법(Gradient Descent)__: 비용함수를 최소화해주는 파라
 
 가장 가파른(steepest) 방향, 즉 함수의 기울기를 따라서 최적의 값으로 한 스텝씩 업데이트
 
-![경사하강법 알고리즘](https://github.com/seoyeonkim3/6th-Intermediate/blob/Week1/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.png?raw=true)
+![경사하강법 알고리즘](https://github.com/seoyeonkim3/Euron-Intermediate-study/blob/Week1/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.png?raw=true)
 →알고리즘
 
 ## 2-5. 미분
